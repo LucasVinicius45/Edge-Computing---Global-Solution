@@ -14,4 +14,5 @@
 #### Adaptando para o contexto de Edge Computing, foi planejado fazer a simulação de uma máquina, onde são mostrados algumas opções de escolha, que seriam alguns sintomas. A ideia é fazer com que a pessoa selecione qual doença gostaria de receber detalhes e possa receber uma descrição de como prosseguir. No futuro, o planejamento é de que essa solução possa ser mais avançada, conseguindo dar detalhes específicos do sintoma, juntamente com uma análise mais complexa, alimentada pelo banco de dados fornecido pelo jogo.
 
 ***OBS.: É preciso ter em mente de que essa ideia é um complemento ao projeto como um todo***
-***Link do vídeo: https://youtu.be/9ACDRypWHNo?si=M6j57QtlELD8MRMT***
+***Link project: https://wokwi.com/projects/381990299347821569 ***
+***Link do vídeo: https://youtu.be/9ACDRypWHNo?si=M6j57QtlELD8MRMT ***
